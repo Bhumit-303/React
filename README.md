@@ -1,2 +1,2 @@
 # React
-link: [Title](react.txt)
+link: [Description](react.txt)
